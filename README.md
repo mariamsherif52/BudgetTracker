@@ -1,10 +1,10 @@
-BudgetTracker
+# BudgetTracker
 
 
 A C++ application for managing a monthly budget by tracking income, expenses, spending categories, and savings goals.
 
 
-Version 1 Features
+## Version 1 Features
 
 
 
@@ -26,7 +26,7 @@ Save and load budget data using CSV files
 
 
 
-Technologies
+## Technologies
 
 
 
@@ -42,7 +42,7 @@ CSV file storage
 
 
 
-Status
+## Status
 
 
 🚧 Version 1 is currently under development.
