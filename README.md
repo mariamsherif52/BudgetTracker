@@ -4,7 +4,7 @@
 A C++ application for managing a monthly budget by tracking income, expenses, spending categories, and savings goals.
 
 
-## Version 1 Features
+## Version 1 Planned Features
 
 
 
