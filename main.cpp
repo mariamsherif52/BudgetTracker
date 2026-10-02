@@ -27,10 +27,11 @@ void addExpense(vector<Expense>& expenses)
     double amount;
 
     cout << "\nEnter category: ";
-    cin >> category;
+    cin.ignore();
+    getline(cin, category);
 
     cout << "Enter description: ";
-    cin >> description;
+    getline(cin, description);
 
     cout << "Enter amount: ";
     cin >> amount;
